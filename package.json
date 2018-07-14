@@ -1,0 +1,24 @@
+{
+  "name": "vuejs_workshop",
+  "version": "1.0.0",
+  "description": "VueJS workshop by DevOp cebu group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozknightwalker/VueJS_Workshop.git"
+  },
+  "keywords": [
+    "VueJS",
+    "JS",
+    "Workshop"
+  ],
+  "author": "Jc Din",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozknightwalker/VueJS_Workshop/issues"
+  },
+  "homepage": "https://github.com/ozknightwalker/VueJS_Workshop#readme"
+}
